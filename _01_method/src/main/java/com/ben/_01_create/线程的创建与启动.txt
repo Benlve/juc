@@ -1,0 +1,5 @@
+1.创建线程对象
+①创建Thread类的子类，重写run方法
+②创建Thread对象，构造方法传参Runnable接口实现类
+③创建Thread对象，构造方法传参Runnable接口实现类（FutureTask）
+启动方式：start()

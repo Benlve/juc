@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_01_method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_01_method/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_juc_safe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_juc_safe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_juc_lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_juc_lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_memory_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_memory_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_optimistic_lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_optimistic_lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_thread_pool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_thread_pool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
